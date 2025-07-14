@@ -33,3 +33,28 @@ Predicted vs True labels are visualized using resized CIFAR-10 images. Labels ar
 ✅ Green = Correct Prediction
 
 ❌ Red = Incorrect Prediction
+📦 Installation & Usage
+
+1. Install dependencies:
+
+pip install tensorflow matplotlib pillow
+
+
+2. Run the notebook in Google Colab or locally using Jupyter.
+
+
+
+💡 Future Improvements
+
+Add data augmentation to boost performance
+
+Use dropout layers to prevent overfitting
+
+Experiment with advanced architectures like ResNet or VGG
+
+
+🤝 Acknowledgments
+
+TensorFlow documentation
+
+CIFAR-10 dataset by Alex Krizhevsky
